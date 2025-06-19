@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 62ba1723740bf954abc2dbfbb15dd73c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_3
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 658
+        width: 241
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94210872831b16947b26a26064ac0d45
+      internalID: 569094976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 655
+        width: 276
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9060a0eff7883de4eb6119f7aec84c60
+      internalID: -1911779738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_5
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 658
+        width: 261
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c661c85bdcb57d4e9412507e388f227
+      internalID: 1796803851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_6
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 658
+        width: 260
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0527396077aa3b645bd728ed53e68692
+      internalID: 1980738947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 343
+        width: 251
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09dccb711b483ad41b407e880488d9a1
+      internalID: -1609493780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_16
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 344
+        width: 266
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a3d7bcd2506e24ba5e24751a02e189
+      internalID: -942829340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_19
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 341
+        width: 277
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ae3c0acd315f646acadb164784bf22
+      internalID: -738603396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_21
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 343
+        width: 259
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f79350de7add04ba99fcc8ac5d2d1a
+      internalID: -1126203880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_0: 1574241051
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_1: -2133258315
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_10: -1487864960
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_11: -1609493780
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_12: 1669857993
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_13: 724022475
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_14: -1891264298
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_15: 1022154119
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_16: -942829340
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_17: 1606695103
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_18: 752311045
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_19: -738603396
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_2: -1362166862
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_20: 155756836
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_21: -1126203880
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_22: -467063496
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_23: -2047608703
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_3: 569094976
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_4: -1911779738
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_5: 1796803851
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_6: 1980738947
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_7: -1254533776
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_8: 340406701
+      stock-vector-sprite-sheet-of-a-water-orb-a-blue-water-bubble-an-ice-cold-bubble-a-blue-fire-or-something-else-591566390_9: -329429189
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

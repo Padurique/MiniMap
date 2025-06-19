@@ -1,0 +1,1235 @@
+fileFormatVersion: 2
+guid: fe4364a0b67a37649aa39d8485e6c0c8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 857.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9549edae962b4cc4e81e8edb7bc2ece4
+      internalID: -1279980035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 857.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a56012f3143564492181918e060f3b
+      internalID: -1159646893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 857.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03383ca43bacf4940bd9dd07a2f23c8d
+      internalID: 1325142593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_3
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 857.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94effbc80a45d75429930e9c4704b267
+      internalID: -329853357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_4
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 857.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd22cf04e43ba74f97668dfeb72fcbb
+      internalID: -963258545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_5
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 857.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483bac9fc3a9e8d4ab006899cf13579e
+      internalID: -715605034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_6
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 857.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30f99a35e14dd0469db14ba8c813cc9
+      internalID: 1299573621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_7
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 857.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8961f27a8c92de148bf0812fe1c8ed72
+      internalID: -711595402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_8
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 857.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0030f1e2c453d942bafe2180cd29373
+      internalID: -2041321180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_9
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 857.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969ac64fec27f3d42ab9c357f2648733
+      internalID: -1238173450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 686.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988ba7be17a99bc4e8892f7aa7583aee
+      internalID: 1248643336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 686.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e714aead488cb448a7aa3d5f5a90db
+      internalID: -538206652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_12
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 686.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31284dce236779148a938a886a50b383
+      internalID: -1541335373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_13
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 686.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32848687e6162a842a9e8e9de67d7952
+      internalID: 2082104101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 686.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2049fdd909e261c4bbefd32db97c85cc
+      internalID: 2018928766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 686.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810c23988aa75e749b09c28019d4566f
+      internalID: -1318998332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_16
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 686.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe7845882ee9e64c83ef2e77904a55b
+      internalID: 654598107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_17
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 686.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481548b6dafb58e49b8003133fcae25d
+      internalID: 1335947455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_18
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 686.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e42ee7432c1ab6a47bb3af3bea4a39d9
+      internalID: -42955303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_19
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 686.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577791c7e8c82b6418135e34d758d676
+      internalID: -302723017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8144bbc1627a65f4787aaaf749954842
+      internalID: -886013671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_21
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 515.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c572afc5b017a6f42899bd33e60370f3
+      internalID: -1992174901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 515.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6144ca678da4a8a46ad30dcb0493f5dd
+      internalID: 791857096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_23
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 515.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbb7cefbb882c8449deeb9170bf1380
+      internalID: -1802805709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_24
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 515.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edfa4b3f0f18c31469f185e86ff12284
+      internalID: 610231422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 515.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad05a12cd67bbc4bac775487be1463a
+      internalID: -59158666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_26
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 515.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88557b63fd8b6b748b3ab50b9cbffcf0
+      internalID: 1629509662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_27
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 515.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8014d5bb685264dbef10fbcc070313
+      internalID: 936890817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_28
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 515.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff302323029658f479ac6965921fc180
+      internalID: -1636764791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_29
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 515.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9ba3f8faa69cd41aa9660f9d00f978
+      internalID: 487642438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4335068c1b01854a8b82d1094da8812
+      internalID: 1735923851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_31
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 344.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb063d7ee4bfca64a87c29725f007185
+      internalID: 677434178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_32
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 344.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e91e3eb638fbd4ca730d104dea19a8
+      internalID: -2059082874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_33
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 344.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11122696c8ee8f47a0d931056c98d28
+      internalID: -761412514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_34
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 344.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad27c57b933c3254ebb9a41afbbb646f
+      internalID: -1312298014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_35
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 344.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e778e11003403754fa24c3857beedffc
+      internalID: -274044918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_36
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 344.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6e474174027234a8e2f498a2aaac6c
+      internalID: 1566254148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_37
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 344.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7577af3e2ad24f439f6846e320ba345
+      internalID: -442743909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_38
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 344.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f166e84e02542249aca5894c123fb3b
+      internalID: 1909968607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_39
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 344.5714
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f201f95b8f26942901e1fc0101e7f7
+      internalID: 1103846236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173.57143
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2a4ada695d3694b8a25275e6d552b7
+      internalID: -1708493939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 173.57143
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158eca4db3530214bbde7b97e2db3c44
+      internalID: 312691583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_42
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 173.57143
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e01346665cd3cb47a2120990c6dc7d1
+      internalID: -1005281742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_43
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 173.57143
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eade904eacec974d9b7823a0b56b228
+      internalID: 1149546378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_44
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 173.57143
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 393e6c1804d94004b992b517803e6b53
+      internalID: 2124995608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_45
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 173.57143
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d8c5bd7127d9c40a8ce109e9c87241
+      internalID: 101216848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_46
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 173.57143
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ccf0c0eac642e4fab2fab239990cfd
+      internalID: -256228136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_47
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 173.57143
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9f5dd7233ef9341bd99279388669f2
+      internalID: 322618623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_48
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 173.57143
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853244c91c6e6c0488d51f8def44b4a7
+      internalID: -1567491081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Free-Slash-Sprite-Cartoon-Effects2_49
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 173.57143
+        width: 180
+        height: 171.42857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8262c693209098e4ab3018f96fa7d628
+      internalID: 999675694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Free-Slash-Sprite-Cartoon-Effects2_0: -1279980035
+      Free-Slash-Sprite-Cartoon-Effects2_1: -1159646893
+      Free-Slash-Sprite-Cartoon-Effects2_10: 1248643336
+      Free-Slash-Sprite-Cartoon-Effects2_11: -538206652
+      Free-Slash-Sprite-Cartoon-Effects2_12: -1541335373
+      Free-Slash-Sprite-Cartoon-Effects2_13: 2082104101
+      Free-Slash-Sprite-Cartoon-Effects2_14: 2018928766
+      Free-Slash-Sprite-Cartoon-Effects2_15: -1318998332
+      Free-Slash-Sprite-Cartoon-Effects2_16: 654598107
+      Free-Slash-Sprite-Cartoon-Effects2_17: 1335947455
+      Free-Slash-Sprite-Cartoon-Effects2_18: -42955303
+      Free-Slash-Sprite-Cartoon-Effects2_19: -302723017
+      Free-Slash-Sprite-Cartoon-Effects2_2: 1325142593
+      Free-Slash-Sprite-Cartoon-Effects2_20: -886013671
+      Free-Slash-Sprite-Cartoon-Effects2_21: -1992174901
+      Free-Slash-Sprite-Cartoon-Effects2_22: 791857096
+      Free-Slash-Sprite-Cartoon-Effects2_23: -1802805709
+      Free-Slash-Sprite-Cartoon-Effects2_24: 610231422
+      Free-Slash-Sprite-Cartoon-Effects2_25: -59158666
+      Free-Slash-Sprite-Cartoon-Effects2_26: 1629509662
+      Free-Slash-Sprite-Cartoon-Effects2_27: 936890817
+      Free-Slash-Sprite-Cartoon-Effects2_28: -1636764791
+      Free-Slash-Sprite-Cartoon-Effects2_29: 487642438
+      Free-Slash-Sprite-Cartoon-Effects2_3: -329853357
+      Free-Slash-Sprite-Cartoon-Effects2_30: 1735923851
+      Free-Slash-Sprite-Cartoon-Effects2_31: 677434178
+      Free-Slash-Sprite-Cartoon-Effects2_32: -2059082874
+      Free-Slash-Sprite-Cartoon-Effects2_33: -761412514
+      Free-Slash-Sprite-Cartoon-Effects2_34: -1312298014
+      Free-Slash-Sprite-Cartoon-Effects2_35: -274044918
+      Free-Slash-Sprite-Cartoon-Effects2_36: 1566254148
+      Free-Slash-Sprite-Cartoon-Effects2_37: -442743909
+      Free-Slash-Sprite-Cartoon-Effects2_38: 1909968607
+      Free-Slash-Sprite-Cartoon-Effects2_39: 1103846236
+      Free-Slash-Sprite-Cartoon-Effects2_4: -963258545
+      Free-Slash-Sprite-Cartoon-Effects2_40: -1708493939
+      Free-Slash-Sprite-Cartoon-Effects2_41: 312691583
+      Free-Slash-Sprite-Cartoon-Effects2_42: -1005281742
+      Free-Slash-Sprite-Cartoon-Effects2_43: 1149546378
+      Free-Slash-Sprite-Cartoon-Effects2_44: 2124995608
+      Free-Slash-Sprite-Cartoon-Effects2_45: 101216848
+      Free-Slash-Sprite-Cartoon-Effects2_46: -256228136
+      Free-Slash-Sprite-Cartoon-Effects2_47: 322618623
+      Free-Slash-Sprite-Cartoon-Effects2_48: -1567491081
+      Free-Slash-Sprite-Cartoon-Effects2_49: 999675694
+      Free-Slash-Sprite-Cartoon-Effects2_5: -715605034
+      Free-Slash-Sprite-Cartoon-Effects2_6: 1299573621
+      Free-Slash-Sprite-Cartoon-Effects2_7: -711595402
+      Free-Slash-Sprite-Cartoon-Effects2_8: -2041321180
+      Free-Slash-Sprite-Cartoon-Effects2_9: -1238173450
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
